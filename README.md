@@ -48,3 +48,6 @@ end
 
 ```
 
+## Metrics
+
+Actionable data will set Teagles apart from others. Providing rich data allows us to form the best decisions for our client's business. In addition, it builds our clients trust in the form of transparency, showing decisions based on fact, and inviting collaboration. Our client's trust in us is the keystone in our business relations.
