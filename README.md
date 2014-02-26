@@ -49,7 +49,4 @@ end
 ```
 
 ## Metrics
-
-Actionable data will set Teagles apart from others. Providing rich data allows us to form the best decisions for our client's business. In addition, it builds our clients trust in the form of transparency, showing decisions based on fact, and inviting collaboration. Our client's trust in us is the keystone in our business relations.
-
-[Metrics Playbook](/metrics)
+We believe the collection and analysis of rich, actionable data will set Teagles Consulting apart from the competition. In addition to providing the foundation for our consulting services this information is pivotal in building client's trust in the form of transparency, collaboration, and insight. Our client's trust in Teagles Consulting is the keystone of all our business relationships. Review the [Metrics Playbook](/metrics) for more details.
